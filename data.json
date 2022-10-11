@@ -1,0 +1,86 @@
+{
+
+      "colleagues" : [
+
+
+            {
+                  "id": 1,
+                  "name":"Jimmy" ,
+                  "position": "Co-Founder",
+                  "description":"Party Planner,Snowboarding & Surprises",
+                  "birthday": "March",
+                  "favourite_Month": "January",
+                  "comp": "Only the thoughtful Jimmy can plan a BLAST of a party for  1 year anniversary, but please have the party at the office this time. Last time you took us snowboarding someone almost hit a tree. you know we aren't all adventurous like you. On a side note.....BOOOO!"
+
+
+
+
+
+
+            },
+            {
+
+                  "id": 2,
+                  "name":"Captain Picard" ,
+                  "position": "Co-Founder",
+                  "description":"Night Life,Hosts parties & Great Communicator",
+                  "birthday": "April",
+                  "favourite_Month": "July",
+                  "comp":"YOHOO Captain Picard, it's the weekend already.We are waiting for you to take us to one of your wild parties.Either the party is at your place or not, Good times is always assured as the CAPITANO is in the house!"
+
+
+
+            },
+            {
+                  "id": 3,
+                  "name":"Mr.Anthony" ,
+                  "position": "Lead Technical Consultant",
+                  "description":"Gamer(Retro),Enjoys Personal Projects",
+                  "birthday": "November",
+                  "favourite_Month": "August",
+                  "comp" : "The OG, The one and only, The Trophy Hunter. Yes You guessed it right, it's you Mr.Anthony.They say gamers are the most creative, and they couldn't be more right. Once a gamer, always a gamer. Thank you for aspiring us to always be True to ourselves, and for helping us getting those W's on fortnite"
+
+
+
+            },
+            {
+                  "id": 4,
+                  "name":"Do" ,
+                  "position": "Functional Consultant",
+                  "description":"Strong HR background, Shopoholic and decorator",
+                  "birthday": "June",
+                  "favourite_Month": "December",
+                  "comp":"Jingle bells, Jingle all the way. ain't nothing feels better than the christmas spirit, Luckily we have Do to make us feel the holiday vibes all year long. With your amazing decorating taste, our office is getting more beautiful day by day thanks to you Do, Ps: BEST FASHION TIPS IN MONTREAL!"
+
+
+
+
+            },
+            {
+                  "id": 5,
+                  "name":"Tony" ,
+                  "position": "Functional Consultant",
+                  "description":"enjoys time with friends, impersonator, DJ, drone pilot",
+                  "birthday": "November",
+                  "favourite_Month": "July",
+                  "comp": "Want a good laugh? Just go to Tony and ask him for a Robert De Niro's impersonation, you are in for a treat! Good Jokes, Good music & Lastly, A wonderful friend. "
+
+
+
+            },
+            {
+                  "id": 6,
+                  "name":"Vic" ,
+                  "position": "Tech-consultant",
+                  "description":"travelling, sports & good at learning tech.",
+                  "birthday": "October",
+                  "Favourite_Month": "October",
+                  "comp": "VISCA BARCA! Cheers to the best city in the world, who brought us MESSI and INIESTA, but to be honest, We value Vic way more than we do for these two. Always caught upp with the latest tech and the most amazing travel destinations. Truly Vic, Tu Mejoras el mundo  "
+
+
+
+            }
+
+      ]
+
+}
